@@ -1,2 +1,2 @@
 # hello-world
-Practice
+Hey I'm Jeff and I'm learning GitHub
